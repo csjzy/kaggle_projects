@@ -1,1 +1,2 @@
-# kaggle_projects
+# Ipython-for-Kaggle
+Ipython projects for kaggle
